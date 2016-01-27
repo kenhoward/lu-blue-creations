@@ -24047,7 +24047,7 @@
 	      React.createElement(
 	        "div",
 	        { className: "logo" },
-	        React.createElement("img", { src: "images/logo-350x150.jpg" })
+	        React.createElement("img", { src: "images/temp_logo.jpg" })
 	      ),
 	      React.createElement(
 	        "nav",

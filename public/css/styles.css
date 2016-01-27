@@ -1,0 +1,35 @@
+/** {
+	outline: 1px solid #bada55;
+}*/
+
+.logo {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.social-media {
+  text-align: right;
+  padding-top: 4px;
+}
+
+.social-media a {
+  padding: 0 6px;
+  color: #b3ecff;
+}
+
+@media (max-width: 400px) {
+  .social-media {
+    text-align: center;
+  }
+}
+
+.navbar-default {
+  background-color: #FFF;
+  border-color: #FFF;
+}
+
+#lublue-nav {
+  border-top-color: #e7e7e7;
+  border-bottom-color: #e7e7e7;
+  box-shadow: 0 5px 3px #e7e7e7;
+}

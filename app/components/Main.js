@@ -11,7 +11,7 @@ var Main = React.createClass({
             <a href="https://www.facebook.com/lubluecreations/" target="_blank"><i className="fa fa-facebook-square fa-2x"></i></a>
         </div>
         <div className="logo">
-          <img src="images/temp_logo.jpg" />
+          <img src="images/lu_blue_logo.jpg" />
         </div>
         <nav className="navbar navbar-default" role="navigation" id="lublue-nav">
           <div className="col-sm-7 col-sm-offset-2" style={{marginTop: 15}}>
